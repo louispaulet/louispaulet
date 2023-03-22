@@ -34,6 +34,7 @@ I'm Louis Paulet, a data scientist and AI enthusiast with a passion for artifici
 
 * [GitHub](https://github.com/louispaulet)
 * [LinkedIn](https://www.linkedin.com/in/louispaulet)
+* [Website](https://louispaulet.github.io/)
 
 💼 I'm currently looking for a job in data science or related fields.
 
