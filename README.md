@@ -1,6 +1,15 @@
-# Louis Paulet - Data Scientist & AI Enthusiast
+### Hi there 👋
 
-Welcome to the GitHub profile of Louis Paulet, a talented data scientist with a passion for artificial intelligence and machine learning. Specializing in AI-generated art, Louis is on the lookout for new opportunities to grow and apply his skills in the field of data science.
+I'm Louis Paulet, a data scientist and AI enthusiast with a passion for artificial intelligence and machine learning.
+
+🔭 I’m currently working on NLP and image generation side projects.
+
+🌱 My main areas of expertise are:
+
+* Jupyter Notebook, Python, R, and JavaScript
+* TensorFlow, Keras, and Scikit-learn
+* CNNs, GANs, and Stable Diffusion
+* Flask and React
 
 🎨 [AI-Generated Art Portfolio](https://the_french_artist.artstation.com/)
 
@@ -9,13 +18,6 @@ Welcome to the GitHub profile of Louis Paulet, a talented data scientist with a 
 * [ETL and NLP Experiments](https://github.com/louispaulet/ETL_tests)
 * [OpenAI CLIP Image Text Similarity](https://github.com/louispaulet/OpenAI_CLIP-REACT-FLASK)
 * [MNIST-KERAS-FLASK-JS](https://github.com/louispaulet/MNIST-KERAS-FLASK-JS)
-
-## Skills
-
-* Jupyter Notebook, Python, R, and JavaScript
-* TensorFlow, Keras, and Scikit-learn
-* CNNs, GANs, and Stable Diffusion
-* Flask and React
 
 ## Education & Experience
 
@@ -32,3 +34,7 @@ Welcome to the GitHub profile of Louis Paulet, a talented data scientist with a 
 
 * [GitHub](https://github.com/louispaulet)
 * [LinkedIn](https://www.linkedin.com/in/louispaulet)
+
+💼 I'm currently looking for a job in data science or related fields.
+
+⚡ Fun fact: I like good food, always looking for a new restaurant!  
