@@ -28,7 +28,7 @@ I'm Louis Paulet, a data scientist and AI enthusiast with a passion for artifici
 * Backend Software Engineer at Meetic (Match Group), Paris, France, 2018-2019
 * Backend Software Engineer at Carglass (Belron Group), Paris, France, 2017-2018
 
-📄 [View Full CV](https://example.com/louis_paulet_cv.pdf)
+📄 [View Full CV](https://louispaulet.github.io/cv/louis_paulet_data_science_cv.pdf)
 
 ## Connect with Louis
 
