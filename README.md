@@ -15,9 +15,16 @@ I'm Louis Paulet, a data scientist and AI enthusiast with a passion for artifici
 
 ## Projects
 
-* [ETL and NLP Experiments](https://github.com/louispaulet/ETL_tests)
-* [OpenAI CLIP Image Text Similarity](https://github.com/louispaulet/OpenAI_CLIP-REACT-FLASK)
-* [MNIST-KERAS-FLASK-JS](https://github.com/louispaulet/MNIST-KERAS-FLASK-JS)
+### Live projects  
+[Here!](https://louispaulet.github.io/#/projects)  
+
+Dataviz website, RAG assistant, and other fun LLM applications.  
+
+### LLM Benchmarks  
+
+[Main repo](https://github.com/louispaulet/benchmark_experiments)  
+[Repetitive 1+1+...+1 sum benchmark](https://github.com/louispaulet/benchmark_experiments/tree/main/Repetitive%20Sums%20Benchmark%20Dataset)  
+[Multiple voters improve MMLU scores](https://github.com/louispaulet/benchmark_experiments/tree/main/MMLU%20Dataset%20-%20multiple%20voters)  
 
 ## Education & Experience
 
@@ -28,7 +35,7 @@ I'm Louis Paulet, a data scientist and AI enthusiast with a passion for artifici
 * Backend Software Engineer at Meetic (Match Group), Paris, France, 2018-2019
 * Backend Software Engineer at Carglass (Belron Group), Paris, France, 2017-2018
 
-📄 [View Full CV](https://louispaulet.github.io/cv/louis_paulet_data_science_cv.pdf)
+📄 [View Full CV](https://louispaulet.github.io/#/cv)
 
 ## Connect with Louis
 
