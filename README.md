@@ -80,6 +80,7 @@ I'm Louis Paulet — a data scientist at Checkout.com working on fraud detection
 ## Connect
 
 * [GitHub](https://github.com/louispaulet)
+* [Codeberg](https://codeberg.org/thefrenchartist)
 * [LinkedIn](https://www.linkedin.com/in/louispaulet)
 * [Website](https://louispaulet.github.io/)
 
